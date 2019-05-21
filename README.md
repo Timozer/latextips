@@ -57,4 +57,4 @@ LATEX code | Description
 \end{equation}
 ```
 
-![](http://latex.codecogs.com/gif.latex?f(x\) = \left\{\begin{array}{ccl} x + 1 & & \text{if}\ x > 0 \\ x - 1 & & \text{otherwise} \end{array} \right.)
+![](http://latex.codecogs.com/gif.latex?f_x=\left\{\begin{array}{ccl}x+1& &\text{if}\ x>0\\x-1& &\text{otherwise}\end{array} \right.)
