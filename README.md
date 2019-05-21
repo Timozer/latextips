@@ -57,5 +57,5 @@ LATEX code | Description
 \end{equation}
 ```
 
-![](http://latex.codecogs.com/gif.latex?f_x%20=%20\left\{%20\begin{array}{ccl}%20x%20+%201%20&%20&%20\text{if}\%20x%20%3E%200%20\\%20x%20-%201%20&%20&%20\text{otherwise}%20\end{array}%20\right.)
+![](http://latex.codecogs.com/gif.latex?f\_x%20=%20\left\{%20\begin{array}{ccl}%20x%20+%201%20&%20&%20\text{if}\%20x%20%3E%200%20\\%20x%20-%201%20&%20&%20\text{otherwise}%20\end{array}%20\right.)
 <!--![](http://latex.codecogs.com/gif.latex?f_x=\left\{\begin{array}{ccl}x+1& &\text{if}\ x>0\\x-1& &\text{otherwise}\end{array} \right.)-->
