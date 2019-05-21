@@ -48,7 +48,7 @@ LATEX code | Description
 ```tex
 \begin{equation}
     \label{eq:lab}
-    f(x) = \left{ 
+    f(x) = \left\{ 
         \begin{array}{ccl}
         x + 1 & & \text{if}\ x > 0 \\
         x - 1 & & \text{otherwise}
@@ -56,3 +56,5 @@ LATEX code | Description
     \right.
 \end{equation}
 ```
+
+![](http://latex.codecogs.com/gif.latex?f(x\) = \left\{\begin{array}{ccl} x + 1 & & \text{if}\ x > 0 \\ x - 1 & & \text{otherwise} \end{array} \right.)
